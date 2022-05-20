@@ -1,0 +1,33 @@
+*{
+    font-weight: 700;
+}
+span{
+    width: 1px;
+}
+h4 span{
+    color: #ff5e00d5;
+}
+.col h6{
+    color: #ff5e00d5;
+}
+.follow{
+    margin-right: 6rem;
+}
+button{
+    background-color: #ff5e00d5;
+}
+button:hover{
+    transform: scale(1.02);
+}
+.has-bg-img{
+    background-image: url(file:///C:/Users/new/Documents/security/sec.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav-link{
+    color: white;
+}
+.active{
+    color:  #ff5e00d5;  
+}
